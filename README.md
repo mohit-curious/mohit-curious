@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <ul>
 <li>
-<a href="https://mohit-curious.github.io/resume/">Resume</a>
+<a href="https://mohit-curious.github.io/">Resume</a>
 </li>
 </ul>
