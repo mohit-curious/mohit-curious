@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<ul>
+<li>
+<a href="https://mohit-curious.github.io/resume/">Resume</a>
+</li>
+</ul>
